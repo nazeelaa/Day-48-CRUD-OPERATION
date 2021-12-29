@@ -1,0 +1,158 @@
+RFP .NET Fellowship -081
+Nagendra Oct 23 2021
+Stream
+Classwork
+People
+RFP .NET Fellowship -081
+Nagendra Oct 23 2021
+View class information
+Upcoming
+Due tomorrow
+Day 48 Practice Problem
+
+Announce something to your class
+
+Announcement: 'PayRoll'
+chaitra p
+Created 20:4120:41
+PayRoll
+
+PayRoll.html
+HTML
+
+PayRollcss.css
+Style Sheet
+
+PayRollJS.js
+JavaScript
+
+Assignment: "Day 48 Practice Problem"
+Ajay Lodale posted a new assignment: Day 48 Practice Problem
+Created 20:3820:38
+Material: 'Day 48 Employee Payroll App - CRUD Operation'
+chaitra p posted a new material: Day 48 Employee Payroll App - CRUD Operation
+Created 19:4819:48
+Assignment: "Day 47 Practice Problem"
+Ajay Lodale posted a new assignment: Day 47 Practice Problem
+Created YesterdayYesterday
+Material: 'Day 47 Employee Payroll App - Home Page'
+chaitra p posted a new material: Day 47 Employee Payroll App - Home Page
+Created YesterdayYesterday
+
+Announcement: 'EmployeePayRoll'
+chaitra p
+Created 24 Dec24 Dec
+EmployeePayRoll
+
+EmployeePayRoll.html
+HTML
+
+Employee-PayRoll.js
+JavaScript
+
+EmployeePayRollData.js
+JavaScript
+
+EmployeePayrollstyle.txt
+Text
+
+EmployeePayrollstylesheet.css
+Style Sheet
+
+Assignment: "Day 46 Practice Problem"
+Ajay Lodale posted a new assignment: Day 46 Practice Problem
+Created 24 Dec24 Dec
+Material: 'Day 46 Employee Payroll App - Add Employee Payroll to HTML5 Local Storage'
+Ajay Lodale posted a new material: Day 46 Employee Payroll App - Add Employee Payroll to HTML5 Local Storage
+Created 24 Dec24 Dec
+Assignment: "Day 45 Practice Problem"
+Ajay Lodale posted a new assignment: Day 45 Practice Problem
+Created 23 Dec23 Dec
+Material: 'Day 45 Employee Payroll App - Add Employee'
+Ajay Lodale posted a new material: Day 45 Employee Payroll App - Add Employee
+Created 23 Dec23 Dec
+Assignment: "Day 44 Practice Problems"
+Ajay Lodale posted a new assignment: Day 44 Practice Problems
+Created 22 Dec22 Dec
+Material: 'Day 44 HTML5 Input Forms and Media Queries'
+Ajay Lodale posted a new material: Day 44 HTML5 Input Forms and Media Queries
+Created 22 Dec22 Dec
+
+Announcement: 'Flex'
+chaitra p
+Created 22 Dec22 Dec
+Flex
+
+Flex.html
+HTML
+
+Assignment: "Day 43 Practice Problems"
+Ajay Lodale posted a new assignment: Day 43 Practice Problems
+Created 21 Dec21 Dec
+Material: 'Day 43 HTML, CSS and Flexbox Intro'
+Ajay Lodale posted a new material: Day 43 HTML, CSS and Flexbox Intro
+Created 21 Dec21 Dec
+Assignment: "Day 42 Practice Problems"
+Ajay Lodale posted a new assignment: Day 42 Practice Problems
+Created 20 Dec20 Dec
+Material: 'Day 42 JS Arrow Functions, Objects and Classes'
+Ajay Lodale posted a new material: Day 42 JS Arrow Functions, Objects and Classes
+Created 20 Dec20 Dec
+Assignment: "Day 41 Practice Problems"
+Ajay Lodale posted a new assignment: Day 41 Practice Problems
+Created 18 Dec18 Dec
+Material: 'Day 41 JS Data Structures'
+Ajay Lodale posted a new material: Day 41 JS Data Structures
+Created 18 Dec18 Dec
+Assignment: "Day 40 Practice Problems"
+Ajay Lodale posted a new assignment: Day 40 Practice Problems
+Created 17 Dec17 Dec
+Handing in…
+body{
+    margin: 0;
+    height: 100%;
+}
+
+.header{
+    padding: 15px 0;
+    background-color: #ffffff;
+}
+
+.header-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border:0px solid green;
+}
+
+.logo-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 0px solid green;
+    width: 80%;
+}
+
+.logo-content-img{
+    border: solid 0px #42515f;
+}
+
+.emp-text{
+font:normal normal bold 20px/25px Montserrat;
+font-family:"Montserrat", sans-serif;
+letter-spacing: 0px;
+color: #82a70c;
+text-transform: capitalize;
+}
+
+.emp-payroll{
+    color: #42515f;
+}
+
+.add-button{
+    font:normal normal normal 22px/29px Roboto;
+    
+}
+PayRollcss.css
+Displaying PayRollcss.css.
